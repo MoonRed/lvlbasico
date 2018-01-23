@@ -35,4 +35,12 @@ public class Pseudocodigo : MonoBehaviour
 	bool = true, false;
 	 */
 
+	/* Pseudocodigo
+	 
+	si varx es mayor vary
+		debug
+	sino
+		debug
+
+	*/
 }
