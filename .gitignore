@@ -58,3 +58,7 @@ Assets/_Content/GUI
  
 # GITEYE
 *.project
+/LvlBasico Project/.vs/LvlBasico Project/v15/Server/sqlite3/storage.ide-wal
+/LvlBasico Project/.vs/LvlBasico Project/v15/Server/sqlite3/storage.ide-shm
+/LvlBasico Project/.vs/LvlBasico Project/v15/Server/sqlite3/storage.ide
+/LvlBasico Project/.vs/LvlBasico Project/v15/Server/sqlite3/db.lock
